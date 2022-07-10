@@ -1,0 +1,14 @@
+searching for a name in a phone book
+1 Pick up the phone book
+2 Open middle of the phone book
+3 Look at the page
+4 If person is on the page
+5      call person
+6 Else if person is left in the book
+7      open the middle of left half of the book
+8      go to line 3
+9 Else if person is later in the book
+10     open the middle of right half of the book
+11     go to line 3
+12 Else
+13 Quit

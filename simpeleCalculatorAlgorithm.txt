@@ -1,0 +1,14 @@
+make a simple calculator
+1 TAKE two inputs from the user
+2 TAKE operator from the user
+3 IF operator is equal to +
+4       display number 1 plus number 2
+5 ELSE IF operator is equal to -
+6       display number 1 minus number 2
+7 ELSE IF operator is equal to /
+8       display number 1 divided by number 2
+9 ELSE IF operator is equal to %
+10       display number 1 medullas by number 2
+11 ELSE
+12       display this option or operator is not valid. try again with a new one
+13 REPEAT line 1
